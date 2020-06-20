@@ -9,5 +9,5 @@ install:
   - gradle assemble
   
 script:
-  - gradle test
+  - gradle check
 	
